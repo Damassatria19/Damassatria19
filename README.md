@@ -1,5 +1,5 @@
 ### Welcome To My Github 👋
-   ### ★ You Crazy ★
+   ###
 
 
 ![mituls code](https://user-images.githubusercontent.com/116265563/197000551-73864e61-7ce8-40b2-b48b-b0109bb3f5f6.gif)
